@@ -1,8 +1,9 @@
-# DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+# DIU21
+Prácticas Diseño Interfaces de Usuario 2020-21 (Economía Colaborativa) 
 
+Grupo: DIU1_01AABB.  Curso: 2020/21 
+Updated: 8/2/2021
 Proyecto: 
 
 Descripción: 
