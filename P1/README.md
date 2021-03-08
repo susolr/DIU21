@@ -4,6 +4,7 @@
 
 
 - Desk research: Análisis Competencia 
+
 Inspirock https://www.inspirock.com/ : Web para la planificación y organización de viajes. Permite planificar el itinerario de tu viaje de forma intuitiva, ofreciéndote diversas posibilidades que se  adecúen a tus horarios, y mostrándote en todo momento el precio aproximado de tus elecciones. El idioma se puede cambiar entre inglés, holandés y árabe.
 Roadtrippers https://roadtrippers.com/ : Web para la planificación y organización de viajes por carretera. Cuenta con una app complementaria y con una versión plus para realizar rutas largas. Te muestra rápidamente puntos de interés para compaginar con tu viaje, que es mostrado en todo momento en un mapa.
 Tripit https://www.tripit.com/ : App para la gestión de tus viajes. Tan solo tienes que enviar por correo tus reservas para planificar un itinerario. Su app se puede encontrar tanto en Google Play como en la AppStore. Puedes recibir beneficios extra si viajas con SAP Concur y adquieres la versión pro. 
