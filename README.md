@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:  Jesús López Rodríguez    :octocat:     
- * :bust_in_silhouette:  María Esmeralda Jiménez Martínez   :octocat:
+ * :bust_in_silhouette:  Jesús López Rodríguez  [@susolr](https://github.com/susolr/DIU21)                :octocat:     
+ * :bust_in_silhouette:  María Esmeralda Jiménez Martínez [@esmeraldajm](https://github.com/esmeraldajm)  :octocat:
 
 ----- 
 
