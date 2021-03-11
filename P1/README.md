@@ -28,10 +28,13 @@ En segundo lugar, hemos creado a Nuria Rivas Aceituno, una mujer introvertida qu
 
 
 - 2 User Journey Map  ( 1 por persona)
+
 Journey Map de Mateo Kroos:
+
 ![journey_mateo](https://user-images.githubusercontent.com/62596996/110804633-a6c0a580-8280-11eb-8486-c6caedce370b.PNG)
 
 Journey Map de Nuria Rivas Aceituno:
+
 ![journey_nuria](https://user-images.githubusercontent.com/62596996/110804734-ba6c0c00-8280-11eb-9989-316020c58f45.PNG)
 
 
