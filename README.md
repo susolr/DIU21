@@ -32,6 +32,9 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+En general todas las aplicaciones cuentan con capacidad de gestión y planificación, diversos recursos multimedia y puntos de interés. Sin embargo el uso de diferentes idiomas, monedas y otros factores que difieren entre países no se maneja igual en todas ellas.
+
+Hemos elegido Inspirock porque es la más versátil cubriendo las necesidad de un público general.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
