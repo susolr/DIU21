@@ -9,7 +9,7 @@
 
 [Roadtrippers](https://roadtrippers.com/): Web para la planificación y organización de viajes por carretera. Cuenta con una app complementaria y con una versión plus para realizar rutas largas. Te muestra rápidamente puntos de interés para compaginar con tu viaje, que es mostrado en todo momento en un mapa.
 
-[Tripit](https://www.tripit.com/): App para la gestión de tus viajes. Tan solo tienes que enviar por correo tus reservas para planificar un itinerario. Su app se puede encontrar tanto en Google Play como en la AppStore. Puedes recibir beneficios extra si viajas con SAP Concur y adquieres la versión pro. 
+[Tripit](https://www.tripit.com/): App para la gestión de tus viajes. Tan solo tienes que enviar por correo tus reservas para planificar un itinerario. Su app se puede encontrar tanto en Google Play como en la AppStore. Puedes recibir beneficios extra si viajas con SAP Concur y adquieres la versión pro. Se encuentra disponible en inglés, alemán, francés y japonés.
 
 [Lambus](https://www.lambus.com/): App para la gestión de todos tus viajes. Muestra un mapa con los lugares en los que has estado. Permite gestionar otros aspectos del viaje, como los gastos, las fotos y las entradas. Su app está disponible en Google Play, AppStore y también cuenta con una versión web. Está disponible tanto en inglés como en alemán.
 
