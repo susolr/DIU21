@@ -57,9 +57,9 @@ Hemos simulado como reaccionarían nuestras personas ante una situación que con
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-template.xls) (sube a github el xls/pdf) 
+>>> - Valoración final (numérica): 86/100
+>>> - Comentario sobre la valoración: En general, esta página es bastante completa e intuitiva, pero aún hay varios campos en los que podría mejorar (ej: idiomas y distribución) (60-120 caracteres)
 
 
 ## Paso 2. UX Design  
