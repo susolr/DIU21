@@ -48,3 +48,5 @@ Journey Map de Nuria Rivas Aceituno:
 
 
 (valoración y conclusiones de esta etapa)
+Valoración: 86/100, Buena.
+
