@@ -52,3 +52,5 @@ Journey Map de Nuria Rivas Aceituno:
 
 Valoración: 86/100, Buena.
 
+En general esta página es bastante completa e intuitiva. Sin embargo, hay muchos detalles que se les escapa y muchos campos en los que trabajar para poder mejorarla.
+
