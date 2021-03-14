@@ -50,6 +50,7 @@ Queríamos cubrir los segmentos de mercado más interesantes: un joven estudiant
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
+Hemos simulado como reaccionarían nuestras personas ante una situación que consideramos bastante común y usual.
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
