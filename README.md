@@ -62,7 +62,9 @@ Hemos simulado como reaccionarían nuestras personas ante una situación que con
 >>> - Comentario sobre la valoración: (60-120 caracteres)
 
 -Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-template.xls) 
+
 -Valoración final (numérica): 86/100
+
 -Comentario sobre la valoración: En general, esta página es bastante completa e intuitiva, pero aún hay varios campos en los que podría mejorar (ej: idiomas y distribución)
 
 
