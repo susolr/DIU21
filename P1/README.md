@@ -21,12 +21,12 @@ Hemos elegido Inspirock porque nos permite, no solo gestionar nuestros viajes, s
 
 - 2 Personas 
 
-En primer lugar, hemos creado a Mateo Kroos, un chico extrovertido que lleva toda su vida en continuo movimiento, y que busca seguir con su estilo de vida con esta web.
+Mateo Kroos es un chico extrovertido, que lleva toda su vida en continuo movimiento, y planea seguir así.
 ![ficha_mateo](https://user-images.githubusercontent.com/62596996/111053480-82bdb980-8464-11eb-9dfc-41e330fa489b.PNG)
 
 
 
-En segundo lugar, hemos creado a Nuria Rivas Aceituno, una mujer introvertida que lleva toda su vida encerrada en la monotonía, y que empieza a abrir sus horizontes gracias a la web.
+Nuria Rivas Aceituno es una mujer introvertida, que lleva toda su vida encerrada en la monotonía, y decide aventurarse.
 ![ficha_nuria](https://user-images.githubusercontent.com/62596996/111053481-86514080-8464-11eb-9e47-ea8543bf1fa5.PNG)
 
 
@@ -35,6 +35,7 @@ En segundo lugar, hemos creado a Nuria Rivas Aceituno, una mujer introvertida qu
 - 2 User Journey Map  ( 1 por persona)
 
 Journey Map de Mateo Kroos:
+El mapa de Mateo describe una supuesta experiencia
 
 ![journey_mateo](https://user-images.githubusercontent.com/62596996/111053484-8bae8b00-8464-11eb-994e-550dfd575d3f.PNG)
 
