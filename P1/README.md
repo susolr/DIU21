@@ -35,12 +35,14 @@ Nuria Rivas Aceituno es una mujer introvertida, que lleva toda su vida encerrada
 - 2 User Journey Map  ( 1 por persona)
 
 Journey Map de Mateo Kroos:
+
 El mapa de Mateo describe los problemas con los que un chico de Erasmus podría encontrarse en la web.
 
 ![journey_mateo](https://user-images.githubusercontent.com/62596996/111053484-8bae8b00-8464-11eb-994e-550dfd575d3f.PNG)
 
 
 Journey Map de Nuria Rivas Aceituno:
+
 El mapa de Nuria describe la experiencia que una persona de sus características podría tener en la web.
 
 ![journey_nuria](https://user-images.githubusercontent.com/62596996/111053489-90733f00-8464-11eb-9a8e-18de11105f97.PNG)
