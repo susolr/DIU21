@@ -61,7 +61,7 @@ Hemos simulado como reaccionarían nuestras personas ante una situación que con
 >>> - Valoración final (numérica):
 >>> - Comentario sobre la valoración: (60-120 caracteres)
 
--Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-template.xls) 
+-Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-Inspirock.xls) 
 
 -Valoración final (numérica): 86/100
 
