@@ -13,7 +13,7 @@
 
 [Lambus](https://www.lambus.com/): App para la gestión de todos tus viajes. Muestra un mapa con los lugares en los que has estado. Permite gestionar otros aspectos del viaje, como los gastos, las fotos y las entradas. Su app está disponible en Google Play, AppStore y también cuenta con una versión web, aunque para usarla tienes que identificarte previamente. Está disponible tanto en inglés como en alemán.
 
-![competitiveanalysis](https://user-images.githubusercontent.com/62596996/111012475-61919600-839c-11eb-89db-dd689f2630c7.png)
+
 
 
 Hemos elegido Inspirock porque nos permite, no solo gestionar nuestros viajes, sino también planearlos y organizarlos, y todo ello acompañado de una interfaz visualmente atractiva y moderna. Preferimos una web a una app porque no nos limita el dispositivo en el que usarla. Cabe destacar que cuenta con varios idiomas y podemos cambiar el tipo de moneda, ampliando su target. Y, según nuestra opinión, es la más variada, cubriendo las necesidades del público general.
