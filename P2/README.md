@@ -2,6 +2,8 @@
 
 ### Ideación 
 * Malla receptora de información 
+![Malla](https://user-images.githubusercontent.com/62568912/112390831-32154e80-8cf7-11eb-93dd-9ae3a62fa299.png)
+
 * Mapa de empatía
 * Point of View 
 
