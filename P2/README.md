@@ -8,6 +8,7 @@
 ![MapaEmpatia](https://user-images.githubusercontent.com/62568912/112494291-31c29500-8d83-11eb-88b7-6f6b830b00c3.png)
 
 * Point of View 
+
 ![POV](https://user-images.githubusercontent.com/62568912/112503826-88cc6800-8d8b-11eb-803b-d66f2ccea2ab.png)
 
 
