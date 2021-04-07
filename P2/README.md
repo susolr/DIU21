@@ -15,6 +15,9 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+![Copia de DIU 1 (wwa-wktn-dpj - 25 mar 2021) (1)-1](https://user-images.githubusercontent.com/62568912/113937949-33b43b80-97fa-11eb-83b3-205aeea36a5e.png)
+
+
 
 ### TASK ANALYSIS
 
