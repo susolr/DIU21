@@ -34,6 +34,10 @@ Hemos usado esta opción porque es una forma simple y directa de ofrecer informa
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+![Sitemap](https://user-images.githubusercontent.com/62568912/114042059-5e97a180-9885-11eb-8677-711ead5d07b7.png)
+
+
 * Labelling 
 
 
