@@ -35,7 +35,7 @@ Hemos usado esta opción porque es una forma simple y directa de ofrecer informa
 
 * Sitemap 
 
-![Sitemap (1)](https://user-images.githubusercontent.com/62568912/114043657-c5698a80-9886-11eb-8517-3557f02a1512.png)
+![Sitemap](https://user-images.githubusercontent.com/62568912/114043911-02ce1800-9887-11eb-811e-c8ed8c4d62ff.png)
 
 
 
