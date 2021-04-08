@@ -13,6 +13,9 @@
 
 
 ### PROPUESTA DE VALOR
+
+* Breve descripción: Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo. 
+
 * ScopeCanvas
 
 ![Copia de DIU 1 (wwa-wktn-dpj - 25 mar 2021) (1)-1](https://user-images.githubusercontent.com/62568912/113937949-33b43b80-97fa-11eb-83b3-205aeea36a5e.png)
