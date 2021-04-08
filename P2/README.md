@@ -35,7 +35,8 @@ Hemos usado esta opción porque es una forma simple y directa de ofrecer informa
 
 * Sitemap 
 
-![Sitemap](https://user-images.githubusercontent.com/62568912/114042059-5e97a180-9885-11eb-8677-711ead5d07b7.png)
+![Sitemap (1)](https://user-images.githubusercontent.com/62568912/114043657-c5698a80-9886-11eb-8517-3557f02a1512.png)
+
 
 
 * Labelling 
