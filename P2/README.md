@@ -44,6 +44,9 @@ Hemos usado esta opción porque es una forma simple y directa de ofrecer informa
 
 * Labelling 
 
+![Labelling-1](https://user-images.githubusercontent.com/62568912/114051001-06649d80-988d-11eb-984b-680ef6bb50fb.png)
+
+
 
 ### Prototipo Lo-FI Wireframe 
 
