@@ -5,7 +5,7 @@ Grupo: DIU1_TeamAlpacas.  Curso: 2020/21
 Updated: 8/3/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Appestruz
 
 Descripción: 
 
