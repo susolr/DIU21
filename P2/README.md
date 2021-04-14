@@ -50,6 +50,11 @@ Hemos usado esta opción porque es una forma simple y directa de ofrecer informa
 
 ### Prototipo Lo-FI Wireframe 
 
+![Appvestruz-Home](https://user-images.githubusercontent.com/62568912/114789395-5c50ae00-9d83-11eb-8141-922a82dbb3c4.jpg)
+![Appvestruz-Planificar](https://user-images.githubusercontent.com/62568912/114789404-607ccb80-9d83-11eb-9be1-03d15cb459bc.jpg)
+![Appvestruz-Gestionar](https://user-images.githubusercontent.com/62568912/114789421-64105280-9d83-11eb-9e2e-8861ce848530.jpg)
+
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
