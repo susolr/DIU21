@@ -28,7 +28,7 @@
 
 Hemos usado esta opción porque es una forma simple y directa de ofrecer información crítica necesaria a la hora de elegir en qué aspectos del diseño centrarnos.
 
-![TaskAnalysis-1](https://user-images.githubusercontent.com/62568912/114779617-a1221800-9d76-11eb-8a59-f4bf1c69e07e.png)
+![TaskAnalysis-1](https://user-images.githubusercontent.com/62568912/114779964-0bd35380-9d77-11eb-820c-2cc163e09568.png)
 
 
 * User/Task flow
