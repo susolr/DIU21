@@ -9,7 +9,7 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
