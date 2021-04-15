@@ -9,7 +9,8 @@
 
 
 * Mapa de empatía
-![MapaEmpatia](https://user-images.githubusercontent.com/62568912/112494291-31c29500-8d83-11eb-88b7-6f6b830b00c3.png)
+![MapaEmpatia](https://user-images.githubusercontent.com/62568912/114888275-5d2c2300-9e09-11eb-91b5-1eb7d21731bc.png)
+
 
 * Point of View 
 
