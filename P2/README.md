@@ -22,7 +22,8 @@
 * Breve descripción: 
 
 Appvestruz es una aplicación web capaz de permitir a los usuarios planificar sus viajes, otorgándoles la posibilidad de buscar tanto la opción de transporte para llegar al destino, como lugares de interés y de restauración. Además, cuenta con la capacidad de ofrecerte una ruta con lugares relevantes que estén próximos entre sí.
-Aparte de esto, permite gestionar los viajes que se hayan contratado gracias a la aplicación, o aquellos que se hayan contratado externamente, introduciendo los datos manualmente en la aplicación en esta última opción.
+
+Aparte de esto, permite gestionar los viajes que se hayan contratado gracias a la aplicación, o aquellos que se hayan contratado externamente, introduciendo los datos manualmente en la aplicación en esta última opción. Y permite realizar un control del presupuesto que el usuario fije como límite, y monitorizar los gastos que este realice.
 
 La aplicación web ofrece una amplia variedad de idiomas y divisas. También cuenta con una herramienta de búsqueda en la página principal, para encontrar información sin necesidad de entrar a la opción de planificar viajes, y herramientas de búsqueda dentro del apartado de planificar, enfocadas en lugares de interés, opciones de movilidad y lugares de restauración.
 
