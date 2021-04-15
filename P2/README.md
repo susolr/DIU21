@@ -44,7 +44,8 @@ En cuanto a las opciones del usuario, puede crear una cuenta e iniciar sesión p
 
 Hemos usado esta opción porque es una forma simple y directa de ofrecer información crítica necesaria a la hora de elegir en qué aspectos del diseño centrarnos.
 
-![TaskAnalysis-1](https://user-images.githubusercontent.com/62568912/114779964-0bd35380-9d77-11eb-820c-2cc163e09568.png)
+![TaskAnalysis](https://user-images.githubusercontent.com/62568912/114894737-2e18b000-9e0f-11eb-9f74-59176d65835e.png)
+
 
 
 * User/Task flow
