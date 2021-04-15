@@ -1,6 +1,9 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
+
+(Apartado sacado de analizar Inspirock).
+
 * Malla receptora de información 
 ![Malla](https://user-images.githubusercontent.com/62568912/114884015-b6925300-9e05-11eb-839f-c47df9d25a52.png)
 
