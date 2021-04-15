@@ -19,7 +19,17 @@
 
 ### PROPUESTA DE VALOR
 
-* Breve descripción: Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo. 
+* Breve descripción: 
+
+Appvestruz es una aplicación web capaz de permitir a los usuarios planificar sus viajes, otorgándoles la posibilidad de buscar tanto la opción de transporte para llegar al destino, como lugares de interés y de restauración. Además, cuenta con la capacidad de ofrecerte una ruta con lugares relevantes que estén próximos entre sí.
+Aparte de esto, permite gestionar los viajes que se hayan contratado gracias a la aplicación, o aquellos que se hayan contratado externamente, introduciendo los datos manualmente en la aplicación en esta última opción.
+
+La aplicación web ofrece una amplia variedad de idiomas y divisas. También cuenta con una herramienta de búsqueda en la página principal, para encontrar información sin necesidad de entrar a la opción de planificar viajes, y herramientas de búsqueda dentro del apartado de planificar, enfocadas en lugares de interés, opciones de movilidad y lugares de restauración.
+
+Existe dentro de la aplicación un blog que da acceso a la comunidad y a noticias relevantes sobre el ámbito del turismo. Existe también un apartado con información sobre la empresa, y un apartado para contactar con ellos, que ofrece un FAQ y una opción de Help, en caso de que las posibles preguntas no estén contempladas en el FAQ.
+
+En cuanto a las opciones del usuario, puede crear una cuenta e iniciar sesión para así tener acceso a los viajes de los que disponga (si es que ha adquirido la versión pro, si no, solo dispondrá de la opción de gestionar un viaje simultáneamente). También puede acceder a su perfil y completar su información para realizar los procesos de reserva de forma más eficiente y rápida.
+
 
 * ScopeCanvas
 
