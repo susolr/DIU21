@@ -76,4 +76,5 @@ Hemos usado esta opción porque es una forma simple y directa de ofrecer informa
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+Esta etapa nos ha centrado más en el trabajo, pues hemos podido empezar a plasmar las ideas del proyecto que tenemos en mente. Sobre las herramientas que hemos usado, creemos que la malla de ideación es un punto muy importante del que comenzar a elaborar nuestra propuesta de valor, y por último, con el sitemap y el prototipo Lo-Fi, podemos materializar nuestras ideas y concretar aquellos detalles que en un primer momento pueden verse demasiado abstractos.
