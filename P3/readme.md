@@ -15,6 +15,9 @@ Paleta:
 
 ![Paleta](https://user-images.githubusercontent.com/62568912/116569644-e3685f00-a909-11eb-87fa-271d3549bcb5.png)
 
+![Paleta](https://user-images.githubusercontent.com/62568912/116570190-5b368980-a90a-11eb-935e-32f15d687825.png)
+
+
 
 
 ## Landing Page
