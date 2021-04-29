@@ -11,6 +11,10 @@ Fuentes:
 
 ![Fuentes](https://user-images.githubusercontent.com/62568912/116567912-596bc680-a908-11eb-83dd-e434f7cd84ff.png)
 
+Paleta:
+
+![Paleta](https://user-images.githubusercontent.com/62568912/116569644-e3685f00-a909-11eb-87fa-271d3549bcb5.png)
+
 
 
 ## Landing Page
