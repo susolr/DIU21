@@ -17,6 +17,9 @@ Paleta:
 
 ![Paleta](https://user-images.githubusercontent.com/62568912/116570190-5b368980-a90a-11eb-935e-32f15d687825.png)
 
+![Paleta](https://user-images.githubusercontent.com/62568912/116570341-7dc8a280-a90a-11eb-974b-6d825657e9a0.png)
+
+
 
 
 
