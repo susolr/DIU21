@@ -4,7 +4,7 @@
 
 ![Moodboard](https://user-images.githubusercontent.com/62568912/116582829-0731a200-a916-11eb-8d13-0f436d10d8cb.png)
 
-
+Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos que refleja el equilibrio necesario entre la felicidad que transmite el hecho de viajar (los tonos azules y amarillos) y la calma que se necesita para planificarlos (los tonos grises).
 
 
 
