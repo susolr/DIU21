@@ -14,6 +14,10 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 
 
+## Guidelines
+
+
+
 ## Mockup: LAYOUT HI-FI
 
 
