@@ -16,6 +16,7 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 ## Guidelines
 
+https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
 
 
 ## Mockup: LAYOUT HI-FI
