@@ -9,7 +9,7 @@ Paleta: Contamos con tres paletas:
 Principal: En tonos azules. 
 
 
-![Moodboard](https://user-images.githubusercontent.com/62568912/118169562-5f45c980-b429-11eb-9fd0-bcea39756cd2.png)
+
 
 
 
@@ -21,7 +21,9 @@ Adobe Garamond: https://fonts.adobe.com/fonts/adobe-garamond
 
 Roboto: https://fonts.google.com/specimen/Roboto
 
-![Moodboard](https://user-images.githubusercontent.com/62568912/116582829-0731a200-a916-11eb-8d13-0f436d10d8cb.png)
+
+![Moodboard](https://user-images.githubusercontent.com/62568912/118169562-5f45c980-b429-11eb-9fd0-bcea39756cd2.png)
+
 
 Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos que refleja el equilibrio necesario entre la felicidad que transmite el hecho de viajar (los tonos azules y amarillos) y la calma que se necesita para planificarlos (los tonos grises).
 
