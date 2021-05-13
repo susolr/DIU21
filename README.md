@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU1_TeamAlpacas.  Curso: 2020/21 
-Updated: 13/5/2021
+Updated: 14/5/2021
 
 Proyecto:
 
