@@ -77,7 +77,7 @@ Tras hacer la revisión de usabilidad (usability review) de la página [Inspiroc
 
 -Por los detalles descritos en ese documento, le hemos dado una puntuación a la página de 86/100.
 
--En general, esta página es bastante completa e intuitiva, pero aún así hay varios campos en los que podría mejorar (ej: idiomas y distribución de componentes en la interfaz).
+-En general, esta página es bastante completa e intuitiva, pero, aun así, hay varios campos en los que podría mejorar (ej: idiomas y distribución de componentes en la interfaz).
 
 Vamos a continuar con el análisis de esta página usando las siguientes herramientas.
 
@@ -129,7 +129,7 @@ Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra apli
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-En cuanto al mapa de nuestra aplicación, comenzamos desde la pantalla de Home, y a través de ella podemos acceder a las páginas principales, que a su vez nos darán acceso al resto de páginas, tal y como se puede observar en el siguiente esquema:
+En cuanto al mapa de nuestra aplicación, comenzamos desde la pantalla de Home, y, a través de ella, podemos acceder a las páginas principales, que a su vez nos darán acceso al resto de páginas, tal y como se puede observar en el siguiente esquema:
 
 ![Sitemap](https://user-images.githubusercontent.com/62596996/118161758-41279b80-b420-11eb-8176-e7484cff7f06.png)
 
@@ -157,7 +157,7 @@ Pasamos ahora a la concreción de nuestro proyecto:
 
 Empezamos plasmando todas las ideas y recursos principales necesarios para el desarrollo en un solo tablón, como el logotipo que tendrá nuestra apliacación en varias versiones, la paleta de colores que se usará las fuentes y los iconos que se utilizarán, y, por último, imagenes de otras aplicaciones que nos vayan a servir de inspiración más tarde.
 
-En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero con un ala de avión. Esta imagen se podría usar, por ejemplo, como cabecera de Twitter, siempre que se inserte encima de un fondo de color sólido que contraste con el avestruz y con el color de las letras empleadas.
+En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero con un ala de avión. Esta imagen se podría usar, por ejemplo, como cabecera de Twitter, siempre que se inserte encima de un fondo de color sólido que contraste con el avestruz y con el color de las letras empleado.
 
 
 ![Moodboard](https://user-images.githubusercontent.com/62596996/118172180-5c98a380-b42c-11eb-9882-ddd8333002ce.png)
@@ -174,7 +174,7 @@ Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una im
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Para decidir qué Patrones IU y Guidelines queríamos usar en nuestra aplicación, hemos tomado inspiración de las aisguientes páginas:
+Para decidir qué Patrones IU y Guidelines queríamos usar en nuestra aplicación, hemos tomado inspiración de las siguientes páginas:
 
 Diseños para utilizar con Adobe XD: https://www.adobe.com/es/products/xd/features/ui-kits.html#panel-3
 
