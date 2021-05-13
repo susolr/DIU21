@@ -43,7 +43,7 @@ Queríamos cubrir los segmentos de mercado más interesantes: un joven estudiant
 
 [![mateo](https://user-images.githubusercontent.com/62596996/118166867-4daef280-b426-11eb-8b3b-b065ef7a1068.png)](https://github.com/susolr/DIU21/blob/master/P1/ficha_mateo.PNG)
 
-![nuria](https://user-images.githubusercontent.com/62596996/118166888-556e9700-b426-11eb-9524-79cb1bd56192.png)
+[![nuria](https://user-images.githubusercontent.com/62596996/118166888-556e9700-b426-11eb-9524-79cb1bd56192.png)](https://github.com/susolr/DIU21/blob/master/P1/ficha_nuria.PNG)
 
 
 
