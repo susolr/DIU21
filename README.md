@@ -109,6 +109,8 @@ Nuestra propuesta parte de toda la información que hemos recogido de los aparta
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
+Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mismo lugar las necesidades, propósitos, objetivos, acciones y métricas que se desean alcanzar. De esta forma, en un vistazo podemos situarnos para empezar su desarrollo.
+
 ![ScopeCanvas](https://user-images.githubusercontent.com/62596996/118161652-21907300-b420-11eb-9407-d86226b39145.png)
 
 
