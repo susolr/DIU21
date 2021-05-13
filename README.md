@@ -4,7 +4,8 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1_TeamAlpacas.  Curso: 2020/21 
 Updated: 8/3/2021
 
-Proyecto: 
+Proyecto:
+
 Appestruz
 
 ![iconoappvestruz2](https://user-images.githubusercontent.com/62596996/118160636-da55b280-b41e-11eb-871f-7931703b6d63.png)
