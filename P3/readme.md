@@ -10,7 +10,8 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 ## Landing Page
 
-![LandingPage2](https://user-images.githubusercontent.com/62568912/118140610-cd2dc900-b408-11eb-825e-5c06d9a8835a.png)
+![LandingPage2](https://user-images.githubusercontent.com/62568912/118145838-51367f80-b40e-11eb-9151-a95a9ddd7e4c.png)
+
 
 
 
