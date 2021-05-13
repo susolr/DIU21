@@ -89,7 +89,17 @@ Sobre el moodboard:
 
 Las herramientas que se proporcionaban como recomendación a usar nos han parecido muy diversas, por lo que hemos usado principalmente Photoshop para casi todo, de tal forma que no teníamos que aprender el manejo de tantas páginas, pues con una sola podíamos realizarlo. En el tema de los iconos, la página propuesta nos ha resultado complicada de entender, por lo que hemos acabado utilizando los que aparecen en Fonts de Google. Creemos que debería haberse mencionado alguna herramienta para comprobar el contraste entre texto y fondo a la hora de decidir la paleta de colores, pues no nos hemos dado cuenta de los requerimientos de la paleta hasta que hemos llegado al diseño del Layout Hi-Fi.
 
-Sobre la Landing Page: 
+Sobre la Landing Page:
+
+Como nosotros estábamos más familiarizados con Photoshop, hemos usado esta herramienta, y siguiendo las recomendaciones de las páginas que se nos proporcionaban, no hemos tenido mayor problema.
+
+Sobre las Guidelines:
+
+Los enlaces que se proporcionaban nos han resultado confusos, y no hemos entendido bien qué teníamos que escribir en este apartado. Al final, hemos encontrado el Material Design de Google, y gracias a él hemos podido empezar a plasmar la idea que teníamos del diseño de nuestra aplicación en componentes que se usan para su desarrollo.
+
+Sobre el Layout Hi-Fi:
+
+Una vez nos hemos familiarizado con Adobe XD, nos ha resultado asequible diseñar las páginas que queríamos desarrollar, por lo que creemos que es una herramienta que debería seguir recomendándose de cara al futuro.
 
 
 
