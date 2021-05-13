@@ -8,8 +8,6 @@ Proyecto:
 
 Appestruz
 
-![iconoappvestruz2](https://user-images.githubusercontent.com/62596996/118160636-da55b280-b41e-11eb-871f-7931703b6d63.png)
-![iconoappvestruznegro](https://user-images.githubusercontent.com/62596996/118160639-dc1f7600-b41e-11eb-826d-fbdf4a989000.png)
 ![Appestruznegro](https://user-images.githubusercontent.com/62596996/118160645-de81d000-b41e-11eb-846e-47be72b920fe.png)
 
 
