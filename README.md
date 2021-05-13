@@ -117,10 +117,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![Appvestruz-Home](https://user-images.githubusercontent.com/62596996/118161803-4edd2100-b420-11eb-97fb-087126d55ced.jpg)
-![Appvestruz-Planificar](https://user-images.githubusercontent.com/62596996/118161827-556b9880-b420-11eb-926b-81a09b4ee21e.jpg)
-![Appvestruz-Gestionar](https://user-images.githubusercontent.com/62596996/118161839-57cdf280-b420-11eb-926c-1ac53e06849c.jpg)
-
+![lo_fi](https://user-images.githubusercontent.com/62596996/118166005-41766580-b425-11eb-810e-3cdf5503e050.png)
 
 
 
