@@ -97,7 +97,7 @@ Vamos a continuar con el análisis de esta página usando las siguientes herrami
 
 >>> Definir "User Map" y "Task Flow" ... 
 
-![Sitemap](https://user-images.githubusercontent.com/62596996/118161727-37059d00-b420-11eb-91f0-3c92568b0cdb.png)
+![TaskAnalysis](https://user-images.githubusercontent.com/62596996/118162329-e478b080-b420-11eb-933b-aee88329c70d.png)
 
 
 
