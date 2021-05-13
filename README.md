@@ -25,9 +25,9 @@ Miembros
 
 # Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
+## 1. Investigación y análisis de experiencias de usuario
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) Análisis competitivo:
 -----
 
 Para empezar, hemos analizado algunas aplicaciones parecidas a la que vamos a desarrollar, de forma que podamos tomar inspiración de ellas, y prestar más atención en aquellos aspectos de los que carecen. En concreto, hemos analizado las siguientes: Inspirock, Roadtrippers, Tripit y Lambus.
@@ -40,7 +40,7 @@ A pesar de que todas ellas cuentan con una amplia variedad de recursos y puntos 
 Por la versatilidad que posee, vamos a analizar Inspirock.
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) Personas ficticias:
 -----
 
 Queríamos cubrir los segmentos de mercado más interesantes: un joven estudiante con recursos limitados y una mujer de mediana edad en busca de experiencias emocionantes. 
@@ -55,7 +55,7 @@ Nuria Vargas:
 
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) Mapas de experiencias de usuario:
 ----
 
 Procedemos entonces a simular como reaccionarían, tanto Mateo como Nuria, al enfrentarse a escenarios predefinidos:
@@ -69,7 +69,7 @@ Nuria Vargas:
 [![nuria](https://user-images.githubusercontent.com/62596996/118166888-556e9700-b426-11eb-9524-79cb1bd56192.png)](https://github.com/susolr/DIU21/blob/master/P1/journey_nuria.PNG)
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) Revisión de usabilidad:
 ----
 Tras hacer la revisión de usabilidad (usability review) de la página [Inspirock](https://www.inspirock.com/), hemos extraído las siguientes conclusiones.
 
@@ -81,10 +81,10 @@ Tras hacer la revisión de usabilidad (usability review) de la página [Inspiroc
 
 Vamos a continuar con el análisis de esta página usando las siguientes herramientas.
 
-## Paso 2. UX Design  
+## 2. Diseño de experiencias de usuario
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) Malla receptora de información, mapa de empatía y punto de vista:
 ----
 
 Primeramente, hemos realizado un Feedback Capture Grid, recogiendo ideas que tendrían nuestras personas ficticias al entrar en Inspirock. En concreto, recogen estos cuatro aspectos:
@@ -109,7 +109,7 @@ Por último, hemos descrito los puntos de vista de ambas personas ficticias, y d
 Nuestra propuesta parte de toda la información que hemos recogido de los apartados anteriores, desarrollando aquellos aspectos esenciales que una aplicación de viajes debe realizar (planificar y gestionar viajes), pero ofreciendo más funcionalidades que pueden hacerla destacar del resto (una amplia sección de noticias y comunidad, además de un apartado de configuración que te permite adaptar la aplicación en función de tu idioma y el país en el que residas).
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas.png) ScopeCanvas
 ----
 
 Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mismo lugar las necesidades, propósitos, objetivos, acciones y métricas que se desean alcanzar. Así conseguimos centrarnos para empezar con el proceso de desarrollo.
@@ -117,7 +117,7 @@ Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mis
 ![ScopeCanvas](https://user-images.githubusercontent.com/62596996/118161652-21907300-b420-11eb-9407-d86226b39145.png)
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) Análisis de tareas 
 -----
 
 Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra aplicación, y la importancia que dichas tienen en función del público que estemos analizando. Además, determinamos cuáles de ellas son las más importantes.
@@ -126,7 +126,7 @@ Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra apli
 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) Arquitectura de información: Mapa de la web y etiquetado
 ----
 
 En cuanto al mapa de nuestra aplicación, comenzamos desde la pantalla de Home, y, a través de ella, podemos acceder a las páginas principales, que a su vez nos darán acceso al resto de páginas, tal y como se puede observar en el siguiente esquema:
@@ -139,7 +139,7 @@ Una vez tenemos diseñado el Sitemap, describimos la funcionalidad de cada una d
 
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png) Bocetaje
 -----
 
 Para terminar con el bocetaje, diseñamos a grandes rasgos algunas de las páginas principales que tendrá nuestra aplicación:
@@ -148,11 +148,11 @@ Para terminar con el bocetaje, diseñamos a grandes rasgos algunas de las págin
 
 
 
-## Paso 3. Mi UX-Case Study (diseño)
+## 3. Diseño de nuestro caso de estudio de experiencias de usuario
 
 Pasamos ahora a la concreción de nuestro proyecto:
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) Moodboard
 -----
 
 Empezamos plasmando todas las ideas y recursos principales necesarios para el desarrollo en un solo tablón, como el logotipo que tendrá nuestra apliacación en varias versiones, la paleta de colores que se usará las fuentes y los iconos que se utilizarán, y, por último, imagenes de otras aplicaciones que nos vayan a servir de inspiración más tarde.
@@ -163,7 +163,7 @@ En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero
 ![Moodboard](https://user-images.githubusercontent.com/62596996/118172180-5c98a380-b42c-11eb-9882-ddd8333002ce.png)
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  Landing Page
 ----
 
 Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una imagen llamativa, te invita a comenzar a planificar tu viaje, explicándote por qué deberías de usar nuestra aplicación.
@@ -171,7 +171,7 @@ Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una im
 ![LandingPage](https://user-images.githubusercontent.com/62596996/118161899-6b795900-b420-11eb-8448-f0faefe481ee.png)
 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](img/guidelines.png) Guidelines
 ----
 
 Para decidir qué Patrones IU y Guidelines queríamos usar en nuestra aplicación, hemos tomado inspiración de las siguientes páginas:
@@ -183,7 +183,7 @@ Diseño para Apple: https://developer.apple.com/design/human-interface-guideline
 Tras analizar ambas páginas, hemos decidido seguir los Patrones IU y Guidelines que ofrece Adobe XD en su kit de Google.
 
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png) Maquetaje
 ----
 
 Llegamos por fin al último paso del diseño de nuestra aplicación, el layout Mockup, realizando bocetos Hi-Fi de las distintas páginas de nuestra aplicación.
@@ -192,7 +192,7 @@ Llegamos por fin al último paso del diseño de nuestra aplicación, el layout M
 
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+![Método UX](img/caseStudy.png) Nuestro caso de estudio de experiencias de usuario
 -----
 
 
