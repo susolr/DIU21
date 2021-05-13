@@ -40,17 +40,14 @@ Home: ___________________________________________________ Desplegable: _________
 ![Home](https://user-images.githubusercontent.com/62568912/118157108-70d3a500-b41a-11eb-9b7e-93ff266d039e.png)
 ![Desplegable](https://user-images.githubusercontent.com/62568912/118157129-77fab300-b41a-11eb-96bf-7d51740e9ad3.png)
 
-
 Planificar: ________________________________________________ Gestionar:  ________________________________________________
 
 ![Planificar](https://user-images.githubusercontent.com/62568912/118157146-7df09400-b41a-11eb-997f-de74ce67bffc.png)
 ![Gestionar](https://user-images.githubusercontent.com/62568912/118157168-834dde80-b41a-11eb-8e32-ab0e6e50657e.png)
 
-
 Blog:
 
 ![Blog](https://user-images.githubusercontent.com/62568912/118157201-8d6fdd00-b41a-11eb-976b-7dc9570a5a03.png)
-
 
 Perfil (antes de iniciar sesión): ___________________________ Perfil (después de iniciar sesión): ________________________
 
