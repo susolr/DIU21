@@ -109,7 +109,7 @@ Por último, hemos descrito los puntos de vista de ambas personas ficticias, y d
 Nuestra propuesta parte de toda la información que hemos recogido de los apartados anteriores, desarrollando aquellos aspectos esenciales que una aplicación de viajes debe realizar (planificar y gestionar viajes), pero ofreciendo más funcionalidades que pueden hacerla destacar del resto (una amplia sección de noticias y comunidad, además de un apartado de configuración que te permite adaptar la aplicación en función de tu idioma y el país en el que residas).
 
 
-![Método UX](img/ScopeCanvas.png) ScopeCanvas
+![Método UX](img/ScopeCanvas.png) ScopeCanvas:
 ----
 
 Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mismo lugar las necesidades, propósitos, objetivos, acciones y métricas que se desean alcanzar. Así conseguimos centrarnos para empezar con el proceso de desarrollo.
@@ -117,7 +117,7 @@ Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mis
 ![ScopeCanvas](https://user-images.githubusercontent.com/62596996/118161652-21907300-b420-11eb-9407-d86226b39145.png)
 
 
-![Método UX](img/Sitemap.png) Análisis de tareas 
+![Método UX](img/Sitemap.png) Análisis de tareas:
 -----
 
 Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra aplicación, y la importancia que dichas tienen en función del público que estemos analizando. Además, determinamos cuáles de ellas son las más importantes.
@@ -126,7 +126,7 @@ Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra apli
 
 
 
-![Método UX](img/labelling.png) Arquitectura de información: Mapa de la web y etiquetado
+![Método UX](img/labelling.png) Arquitectura de información: Mapa de la web y etiquetado:
 ----
 
 En cuanto al mapa de nuestra aplicación, comenzamos desde la pantalla de Home, y, a través de ella, podemos acceder a las páginas principales, que a su vez nos darán acceso al resto de páginas, tal y como se puede observar en el siguiente esquema:
@@ -139,7 +139,7 @@ Una vez tenemos diseñado el Sitemap, describimos la funcionalidad de cada una d
 
 
 
-![Método UX](img/Wireframes.png) Bocetaje
+![Método UX](img/Wireframes.png) Bocetaje:
 -----
 
 Para terminar con el bocetaje, diseñamos a grandes rasgos algunas de las páginas principales que tendrá nuestra aplicación:
@@ -152,7 +152,7 @@ Para terminar con el bocetaje, diseñamos a grandes rasgos algunas de las págin
 
 Pasamos ahora a la concreción de nuestro proyecto:
 
-![Método UX](img/moodboard.png) Moodboard
+![Método UX](img/moodboard.png) Moodboard:
 -----
 
 Empezamos plasmando todas las ideas y recursos principales necesarios para el desarrollo en un solo tablón, como el logotipo que tendrá nuestra apliacación en varias versiones, la paleta de colores que se usará las fuentes y los iconos que se utilizarán, y, por último, imagenes de otras aplicaciones que nos vayan a servir de inspiración más tarde.
@@ -163,7 +163,7 @@ En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero
 ![Moodboard](https://user-images.githubusercontent.com/62596996/118172180-5c98a380-b42c-11eb-9882-ddd8333002ce.png)
 
 
-![Método UX](img/landing-page.png)  Landing Page
+![Método UX](img/landing-page.png)  Landing Page:
 ----
 
 Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una imagen llamativa, te invita a comenzar a planificar tu viaje, explicándote por qué deberías de usar nuestra aplicación.
@@ -171,7 +171,7 @@ Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una im
 ![LandingPage](https://user-images.githubusercontent.com/62596996/118161899-6b795900-b420-11eb-8448-f0faefe481ee.png)
 
 
-![Método UX](img/guidelines.png) Guidelines
+![Método UX](img/guidelines.png) Guidelines:
 ----
 
 Para decidir qué Patrones IU y Guidelines queríamos usar en nuestra aplicación, hemos tomado inspiración de las siguientes páginas:
@@ -183,7 +183,7 @@ Diseño para Apple: https://developer.apple.com/design/human-interface-guideline
 Tras analizar ambas páginas, hemos decidido seguir los Patrones IU y Guidelines que ofrece Adobe XD en su kit de Google.
 
 
-![Método UX](img/mockup.png) Maquetaje
+![Método UX](img/mockup.png) Maquetaje:
 ----
 
 Llegamos por fin al último paso del diseño de nuestra aplicación, el layout Mockup, realizando bocetos Hi-Fi de las distintas páginas de nuestra aplicación.
@@ -192,7 +192,7 @@ Llegamos por fin al último paso del diseño de nuestra aplicación, el layout M
 
 
 
-![Método UX](img/caseStudy.png) Nuestro caso de estudio de experiencias de usuario
+![Método UX](img/caseStudy.png) Nuestro caso de estudio de experiencias de usuario:
 -----
 
 
