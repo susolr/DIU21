@@ -4,28 +4,28 @@
 
 Logotipo: Realizado con Adobe Photoshop. Como inspiración hemos escogido un avestruz, le hemos borrado las patas y le hemos añadido un ala de avión. Cuenta con dos versiones, una en color y otra en blanco y negro. La letra que hemos usado es Gabriola Regular.
 
-Paleta: Contamos con tres paletas:
+Paletas: Contamos con tres paletas:
 
-Principal: En tonos azules. 
+Principal: En tonos azules. Transmite calma y tranquilidad.
+
+Secundaria: En tonos amarillos. Transmite alegría y consigue captar la atención del espectador.
+
+Auxiliar: En tonos grises. Utilizada solo en el logotipo. Diseñada para uso futuro en la interfaz, en caso de que se necesite una tercera gama de colores. Transmite sobriedad.
+
+Gracias a estas tres paletas, conseguimos el equilibrio perfecto entre la calma que se necesita para planificar un viaje y la alegría que dicho transmite, otorgándole toques de sobriedad siempre que hagan falta.
 
 
 
+Fuentes: Utilizamos tres fuentes diferentes.
 
+Gabriola Regular: Elegida para aportar un toque divertido a la aplicación. https://fontsgeek.com/fonts/Gabriola-Regular
 
+Adobe Garamond: Elegida para todas las funcionalidades más rutinarias, facilitando así su lectura, pues se trata de una fuente más amigable a la vista para textos de un tamaño mayor. https://fonts.adobe.com/fonts/adobe-garamond
 
-Fuente:
-
-Gabriola Regular: https://fontsgeek.com/fonts/Gabriola-Regular
-
-Adobe Garamond: https://fonts.adobe.com/fonts/adobe-garamond
-
-Roboto: https://fonts.google.com/specimen/Roboto
+Roboto: Elegida como fuente auxiliar. Utilizada en los componentes comunes a las aplicaciones, como las barras y los botones, consiguiendo una mayor similitud con la mayoría de aplicaciones para móvil existentes en el mercado. https://fonts.google.com/specimen/Roboto
 
 
 ![Moodboard](https://user-images.githubusercontent.com/62568912/118169562-5f45c980-b429-11eb-9fd0-bcea39756cd2.png)
-
-
-Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos que refleja el equilibrio necesario entre la felicidad que transmite el hecho de viajar (los tonos azules y amarillos) y la calma que se necesita para planificarlos (los tonos grises).
 
 
 
