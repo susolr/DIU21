@@ -44,7 +44,7 @@ Realizada con Adobe Photoshop. Tamaño predefinido por Photoshop para web (anchu
 
 ## Guidelines
 
-Los componentes básicos que delimitan la aplicación los hemos sacado del Google Material Design:
+Los componentes básicos que delimitan la aplicación los hemos sacado del Google Material Design que se puede encontrar en la siguiente página:
 https://www.adobe.com/es/products/xd/features/ui-kits.html#panel-3
 
 Concretamente, la App Bar Top y el Bottom Navigation, enmarcando así nuestra pantalla de trabajo tanto por la parte superior como la inferior. También hemos sacado inspiración del mismo material para el desplegable (Exposed Dropdown), la barra de presupuesto (Linear Progress Indicator), la distribución de las imágenes en tipo mosaico sin texto (Image Lists Image only) y con texto (Image Lists Overlay Text), los botones de crear y de iniciar sesión (FAB Extended Resting) y, por último, los campos para texto (Text Fields: Outlined Inactive).
