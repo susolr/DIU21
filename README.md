@@ -6,8 +6,6 @@ Updated: 8/3/2021
 
 Proyecto:
 
-Appestruz
-
 ![Appestruznegro](https://user-images.githubusercontent.com/62596996/118160645-de81d000-b41e-11eb-846e-47be72b920fe.png)
 ![Appestruzbnnegro](https://user-images.githubusercontent.com/62596996/118161327-bb0b5500-b41f-11eb-8d84-51e316147fe0.png)
 
