@@ -109,7 +109,7 @@ Nuestra propuesta parte de toda la información que hemos recogido de los aparta
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mismo lugar las necesidades, propósitos, objetivos, acciones y métricas que se desean alcanzar. De esta forma, en un vistazo podemos situarnos para empezar su desarrollo.
+Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mismo lugar las necesidades, propósitos, objetivos, acciones y métricas que se desean alcanzar. Así conseguimos centrarnos para empezar con el proceso de desarrollo.
 
 ![ScopeCanvas](https://user-images.githubusercontent.com/62596996/118161652-21907300-b420-11eb-9407-d86226b39145.png)
 
@@ -117,7 +117,7 @@ Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mis
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra aplicación, y la importancia que dichas tienen en función del público que estemos analizando. Además, determinamos cuáles de ellas son las más importantes.
 
 ![TaskAnalysis](https://user-images.githubusercontent.com/62596996/118162329-e478b080-b420-11eb-933b-aee88329c70d.png)
 
@@ -125,6 +125,8 @@ Para comenzar con nuestra idea, realizamos un ScopeCanvas, concretando en un mis
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+
+
 
 Término | Significado     
 | ------------- | -------
