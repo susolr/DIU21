@@ -1,6 +1,17 @@
 # DIU - Practica 3, entregables
 
-## Moodboard (diseño visual + logotipo)   
+## Moodboard (diseño visual + logotipo) 
+
+Logotipo: Realizado con Adobe Photoshop. Como inspiración hemos escogido un avestruz, le hemos borrado las patas y le hemos añadido un ala de avión. Cuenta con dos versiones, una en color y otra en blanco y negro. La letra que hemos usado es Gabriola Regular.
+
+Paleta: Contamos con tres paletas:
+
+Principal: En tonos azules. 
+
+
+
+Fuente:
+Gabriola Regular: https://fontsgeek.com/fonts/Gabriola-Regular
 
 ![Moodboard](https://user-images.githubusercontent.com/62568912/116582829-0731a200-a916-11eb-8d13-0f436d10d8cb.png)
 
@@ -10,7 +21,7 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 ## Landing Page
 
-Realizada con Photoshop. Tamaño predefinido por Photoshop para web (anchura: 800 píxeles, altura: 600 píxeles).
+Realizada con Adobe Photoshop. Tamaño predefinido por Photoshop para web (anchura: 800 píxeles, altura: 600 píxeles).
 
 ![LandingPage2](https://user-images.githubusercontent.com/62568912/118145838-51367f80-b40e-11eb-9151-a95a9ddd7e4c.png)
 
