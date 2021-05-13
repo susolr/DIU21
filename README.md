@@ -67,12 +67,12 @@ Vamos a continuar con el análisis de esta página usando las siguientes herrami
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
+  
+
+![Malla](https://user-images.githubusercontent.com/62596996/118161578-0aea1c00-b420-11eb-8edc-6c7cb21ceab5.png)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -84,29 +84,40 @@ Vamos a continuar con el análisis de esta página usando las siguientes herrami
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![ScopeCanvas](https://user-images.githubusercontent.com/62596996/118161652-21907300-b420-11eb-9407-d86226b39145.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+![Sitemap](https://user-images.githubusercontent.com/62596996/118161727-37059d00-b420-11eb-91f0-3c92568b0cdb.png)
+
+
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
+![Sitemap](https://user-images.githubusercontent.com/62596996/118161758-41279b80-b420-11eb-8176-e7484cff7f06.png)
+
+![Labelling](https://user-images.githubusercontent.com/62596996/118161778-4684e600-b420-11eb-96e3-5b43b1a473ea.png)
+
+
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Appvestruz-Home](https://user-images.githubusercontent.com/62596996/118161803-4edd2100-b420-11eb-97fb-087126d55ced.jpg)
+![Appvestruz-Planificar](https://user-images.githubusercontent.com/62596996/118161827-556b9880-b420-11eb-926b-81a09b4ee21e.jpg)
+![Appvestruz-Gestionar](https://user-images.githubusercontent.com/62596996/118161839-57cdf280-b420-11eb-926c-1ac53e06849c.jpg)
+
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -125,7 +136,8 @@ Término | Significado
 ----
 
 
->>> Plantear Landing Page 
+![LandingPage](https://user-images.githubusercontent.com/62596996/118161899-6b795900-b420-11eb-8448-f0faefe481ee.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -136,7 +148,7 @@ Término | Significado
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
