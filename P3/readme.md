@@ -85,6 +85,13 @@ Perfil (antes de iniciar sesión): ___________________________ Perfil (después 
 
 ## Documentación: Publicación del Case Study
 
+Sobre el moodboard:
+
+Las herramientas que se proporcionaban como recomendación a usar nos han parecido muy diversas, por lo que hemos usado principalmente Photoshop para casi todo, de tal forma que no teníamos que aprender el manejo de tantas páginas, pues con una sola podíamos realizarlo. En el tema de los iconos, la página propuesta nos ha resultado complicada de entender, por lo que hemos acabado utilizando los que aparecen en Fonts de Google. Creemos que debería haberse mencionado alguna herramienta para comprobar el contraste entre texto y fondo a la hora de decidir la paleta de colores, pues no nos hemos dado cuenta de los requerimientos de la paleta hasta que hemos llegado al diseño del Layout Hi-Fi.
+
+Sobre la Landing Page: 
+
+
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
