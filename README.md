@@ -58,7 +58,7 @@ Nuria Vargas:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Procedemos entonces a simular como reaccionarían tanto Mateo como Nuria al enfrentarse a escenarios predefinidos:
+Procedemos entonces a simular como reaccionarían, tanto Mateo como Nuria, al enfrentarse a escenarios predefinidos:
 
 Mateo Kroos: 
 
