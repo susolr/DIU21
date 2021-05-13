@@ -10,6 +10,8 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 ## Landing Page
 
+Realizada con Photoshop. Tamaño predefinido por Photoshop para web (anchura: 800 píxeles, altura: 600 píxeles).
+
 ![LandingPage2](https://user-images.githubusercontent.com/62568912/118145838-51367f80-b40e-11eb-9151-a95a9ddd7e4c.png)
 
 
@@ -30,6 +32,8 @@ En referencia a los colores, hemos usado el tono más destacable (el color azul 
 
 
 ## Mockup: LAYOUT HI-FI
+
+Realizados con Adobe XD para el Google Pixel 5 (393 x 851 px).
 
 Home: ___________________________________________________ Desplegable: _____________________________________________
 
