@@ -84,6 +84,7 @@ Vamos a continuar con el análisis de esta página usando las siguientes herrami
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+Primeramente, hemos realizado un Feedback Capture Grid, recogiendo ideas que tendrían nuestras personas ficticias al entrar en Inspirock. En concreto, recogen estos cuatro aspectos:
 
  Interesante | Críticas     
 | ------------- | -------
@@ -91,6 +92,9 @@ Vamos a continuar con el análisis de esta página usando las siguientes herrami
   
 
 ![Malla](https://user-images.githubusercontent.com/62596996/118161578-0aea1c00-b420-11eb-8edc-6c7cb21ceab5.png)
+
+Para seguir sintetizando las experiencias de Mateo y Nuria tras usar Inspirock, hemos realizado un mapa de empatía, 
+
   
 ![MapaEmpatia](https://user-images.githubusercontent.com/62596996/118162169-bdba7a00-b420-11eb-970f-05cd87bda1fe.png)
 
