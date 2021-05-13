@@ -7,12 +7,15 @@ Updated: 8/3/2021
 Proyecto: 
 >>> Appestruz
 
+![iconoappvestruz2](https://user-images.githubusercontent.com/62596996/118160636-da55b280-b41e-11eb-871f-7931703b6d63.png)
+![iconoappvestruznegro](https://user-images.githubusercontent.com/62596996/118160639-dc1f7600-b41e-11eb-826d-fbdf4a989000.png)
+![Appestruznegro](https://user-images.githubusercontent.com/62596996/118160645-de81d000-b41e-11eb-846e-47be72b920fe.png)
+
+
 Descripción: 
 
 >>> Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:  Jesús López Rodríguez  [@susolr](https://github.com/susolr)                :octocat:     
@@ -30,8 +33,6 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
 En general todas las aplicaciones cuentan con capacidad de gestión y planificación, diversos recursos multimedia y puntos de interés. Sin embargo el uso de diferentes idiomas, monedas y otros factores que difieren entre países no se maneja igual en todas ellas.
 
 Hemos elegido Inspirock porque es la más versátil cubriendo las necesidades de un público general.
@@ -40,15 +41,11 @@ Hemos elegido Inspirock porque es la más versátil cubriendo las necesidades de
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
 Queríamos cubrir los segmentos de mercado más interesantes: un joven estudiante con recursos limitados y una mujer de mediana edad en busca de experiencias emocionantes. 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 Hemos simulado como reaccionarían nuestras personas ante una situación que consideramos bastante común y usual.
 
