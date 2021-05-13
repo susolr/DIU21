@@ -9,6 +9,9 @@ Paleta: Contamos con tres paletas:
 Principal: En tonos azules. 
 
 
+![Moodboard](https://user-images.githubusercontent.com/62568912/118169562-5f45c980-b429-11eb-9fd0-bcea39756cd2.png)
+
+
 
 Fuente:
 
