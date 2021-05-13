@@ -93,11 +93,11 @@ Primeramente, hemos realizado un Feedback Capture Grid, recogiendo ideas que ten
 
 ![Malla](https://user-images.githubusercontent.com/62596996/118161578-0aea1c00-b420-11eb-8edc-6c7cb21ceab5.png)
 
-Para seguir sintetizando las experiencias de Mateo y Nuria tras usar Inspirock, hemos realizado un mapa de empatía, escribiendo las ideas de Mateo en azul, y las de Nuria en magenta.
+Para seguir sintetizando las experiencias de Mateo y Nuria tras usar Inspirock, hemos realizado un mapa de empatía, escribiendo las ideas de Mateo en azul, y las de Nuria en magenta:
   
 ![MapaEmpatia](https://user-images.githubusercontent.com/62596996/118162169-bdba7a00-b420-11eb-970f-05cd87bda1fe.png)
 
-Por último, 
+Por último, hemos descrito los puntos de vista de ambas personas ficticias, y de una tercera persona más, para completar aún más la recopilación de experiencias:
 
 ![POV](https://user-images.githubusercontent.com/62596996/118162186-c1e69780-b420-11eb-80c3-d4c3b7bbb935.png)
 
