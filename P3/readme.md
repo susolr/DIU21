@@ -17,8 +17,16 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 ## Guidelines
 
-Google Material Design:
+Los componentes básicos que delimitan la aplicación los hemos sacado del Google Material Design:
 https://www.adobe.com/es/products/xd/features/ui-kits.html#panel-3
+
+Concretamente, la App Bar Top y el Bottom Navigation, enmarcando así nuestra pantalla de trabajo tanto por la parte superior como la inferior. También hemos sacado inspiración del mismo material para el desplegable (Exposed Dropdown), la barra de presupuesto (Linear Progress Indicator), la distribución de las imágenes en tipo mosaico sin texto (Image Lists Image only) y con texto (Image Lists Overlay Text), los botones de crear y de iniciar sesión (FAB Extended Resting) y, por último, los campos para texto (Text Fields: Outlined Inactive).
+
+En cuanto al texto, como comentamos anteriormente en el Moodboard, hemos usado tres fuentes diferentes: Gabriola, Adobe Garamond Pro y Roboto. Gabriola se utiliza en el logotipo, y en todos los textos que aparezcan sobre fondo amarillo. Roboto se utiliza en los componentes (los botones de Iniciar sesión y Crear, y las opciones de la barra de navegación inferior y del desplegable). Adobe Garamond Pro se utiliza para todo lo demás.
+
+Sobre el tamaño del texto, se utiliza tamaño 30 para el texto más destacable de cada pantalla (buscar, empieza ahora, seleccionar viaje, noticias y comunidad. Usuario/email y contraseña se encuentran a tamaño 20. A 14 se encuentran los elementos del desplegable. A 12 se encuentran los elementos de la barra de navegación inferior, y ambos extremos del presupuesto (0 y límite). A 10 se encuentran dos opciones: Registrarse en perfil-1, y cambiar contraseña en perfil-2. El resto del texto se encuentra a tamaño 16.
+
+En referencia a los colores, hemos usado el tono más destacable (el color azul más oscuro) para la barra superior, inferior, los botones de iniciar sesión y crear y el desplegable, consiguiendo enmarcar la aplicación y permitiendo así que el usuario sepa centrar su atención en la pantalla, mientras que el texto contrasta con el uso de blanco, o de un azul muy claro. Para llamar la atención de la principal funcionalidad de cada pantalla, hemos usado tonos amarillos. El resto de funcionalidades van sobre un fondo azul claro, salvo los títulos de dichas funcionalidades, que van sobre un tono azul más oscuro. El resto de texto que no se ha mencionado se encuentra de color negro.
 
 
 ## Mockup: LAYOUT HI-FI
