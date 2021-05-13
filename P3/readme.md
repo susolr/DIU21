@@ -100,8 +100,4 @@ Los enlaces que se proporcionaban nos han resultado confusos, y no hemos entendi
 Sobre el Layout Hi-Fi:
 
 Una vez nos hemos familiarizado con Adobe XD, nos ha resultado asequible diseñar las páginas que queríamos desarrollar, por lo que creemos que es una herramienta que debería seguir recomendándose de cara al futuro.
-
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
