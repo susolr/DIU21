@@ -11,7 +11,10 @@ Principal: En tonos azules.
 
 
 Fuente:
+
 Gabriola Regular: https://fontsgeek.com/fonts/Gabriola-Regular
+
+Adobe Garamond: https://fonts.adobe.com/fonts/adobe-garamond
 
 ![Moodboard](https://user-images.githubusercontent.com/62568912/116582829-0731a200-a916-11eb-8d13-0f436d10d8cb.png)
 
