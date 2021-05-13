@@ -31,11 +31,26 @@ En referencia a los colores, hemos usado el tono más destacable (el color azul 
 
 ## Mockup: LAYOUT HI-FI
 
-![Home](https://user-images.githubusercontent.com/62568912/118139831-0e71a900-b408-11eb-8929-7fd438bb1200.png)
-![Planificar](https://user-images.githubusercontent.com/62568912/118139854-13365d00-b408-11eb-88a2-d809ad6b3220.png)
-![Gestionar](https://user-images.githubusercontent.com/62568912/118139866-16314d80-b408-11eb-88a1-cffa050e2d85.png)
-![Blog](https://user-images.githubusercontent.com/62568912/118139876-192c3e00-b408-11eb-866f-881d748af4b3.png)
-![Perfil](https://user-images.githubusercontent.com/62568912/118139891-1b8e9800-b408-11eb-85b8-dfe87c225213.png)
+Home
+![Home](https://user-images.githubusercontent.com/62568912/118157108-70d3a500-b41a-11eb-9b7e-93ff266d039e.png)
+
+Desplegable
+![Desplegable](https://user-images.githubusercontent.com/62568912/118157129-77fab300-b41a-11eb-96bf-7d51740e9ad3.png)
+
+Planificar
+![Planificar](https://user-images.githubusercontent.com/62568912/118157146-7df09400-b41a-11eb-997f-de74ce67bffc.png)
+
+Gestionar
+![Gestionar](https://user-images.githubusercontent.com/62568912/118157168-834dde80-b41a-11eb-8e32-ab0e6e50657e.png)
+
+Blog
+![Blog](https://user-images.githubusercontent.com/62568912/118157201-8d6fdd00-b41a-11eb-976b-7dc9570a5a03.png)
+
+Perfil (antes de iniciar sesión)
+![Perfil – 1](https://user-images.githubusercontent.com/62568912/118157234-9791db80-b41a-11eb-9ee4-7c4e1ce7de3b.png)
+
+Perfil (después de iniciar sesión)
+![Perfil - 2](https://user-images.githubusercontent.com/62568912/118157271-a1b3da00-b41a-11eb-8298-745dbb981e0e.png)
 
 
 
