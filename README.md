@@ -163,7 +163,7 @@ En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
+Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una imagen llamativa te invita a comenzar a planificar tu viaje, explicándote por qué deberías de usar nuestra aplicación.
 
 ![LandingPage](https://user-images.githubusercontent.com/62596996/118161899-6b795900-b420-11eb-8448-f0faefe481ee.png)
 
@@ -171,11 +171,19 @@ En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para decidir qué Patrones IU y Guidelines queríamos usar en nuestra aplicación, hemos tomado inspiración de las aisguientes páginas:
+
+Diseños para utilizar con Adobe XD: https://www.adobe.com/es/products/xd/features/ui-kits.html#panel-3
+
+Diseño para Apple: https://developer.apple.com/design/human-interface-guidelines/
+
+Tras analizar ambas páginas, hemos decidido seguir los Patrones IU y Guidelines que ofrece Adobe XD en su kit de Google.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+
+Llegamos por fin al último paso del diseño de nuestra aplicación, el layout Mockup, realizando bocetos Hi-Fi de las distintas páginas de nuestra aplicación.
 
 ![mockup](https://user-images.githubusercontent.com/62596996/118165418-8f3e9e00-b424-11eb-8b0b-51796eab8184.png)
 
