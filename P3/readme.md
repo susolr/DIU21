@@ -4,6 +4,8 @@
 
 Logotipo: Realizado con Adobe Photoshop. Como inspiración hemos escogido un avestruz, le hemos borrado las patas y le hemos añadido un ala de avión. Cuenta con dos versiones, una en color y otra en blanco y negro. La letra que hemos usado es Gabriola Regular.
 
+Eslogan: "No escondas la cabeza". Se puede apreciar en la Landing Page, junto al logotipo. Se trata de una frase divertida, que hace referencia al mito de que los avestruces esconden la cabeza bajo tierra cuando se sienten en peligro, haciendo semejanza con que planificar un viaje no tiene por qué ser la parte más problemática de viajar, y que se puede disfrutar también de este proceso gracias a nuestra aplicación.
+
 Paletas: Contamos con tres paletas:
 
 Principal: En tonos azules. Transmite calma y tranquilidad.
