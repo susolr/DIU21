@@ -49,7 +49,7 @@ https://www.adobe.com/es/products/xd/features/ui-kits.html#panel-3
 
 Concretamente, la Top App Bar y el Bottom Navigation, enmarcando así nuestra pantalla de trabajo tanto por la parte superior como la inferior. También hemos sacado inspiración del mismo material para el desplegable (Exposed Dropdown), la barra de presupuesto (Linear Progress Indicator), la distribución de las imágenes en tipo mosaico sin texto (Image Lists Image only) y con texto (Image Lists Overlay Text), los botones de crear y de iniciar sesión (FAB Extended Resting) y, por último, los campos para texto (Text Fields: Outlined Inactive).
 
-En referencia al diseño estilo galería que hemos usado, hemos usado de inspiración Pinterest, para que los usuarios vean todas las opciones que tienen disponibles a simple vista y de forma llamativa, y seleccionen aquellas que más les llamen la atención.
+En referencia al diseño estilo galería que posee, hemos utilizado de inspiración Pinterest, para que los usuarios vean todas las opciones que tienen disponibles a simple vista y de forma llamativa, y seleccionen aquellas que más les llamen la atención.
 
 En cuanto al texto, como comentamos anteriormente en el Moodboard, hemos usado tres fuentes diferentes: Gabriola Regular, Adobe Garamond y Roboto. Gabriola Regular se utiliza en el logotipo, y en todos los textos que aparezcan sobre fondo amarillo. Roboto se utiliza en los componentes (los botones de Iniciar sesión y Crear, y las opciones de la barra de navegación inferior y del desplegable). Adobe Garamond se utiliza para todo lo demás.
 
