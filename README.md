@@ -34,6 +34,9 @@ Para empezar, hemos analizado algunas aplicaciones parecidas a la que vamos a de
 
 A pesar de que todas ellas cuentan con una amplia variedad de recursos y puntos de interés, creemos que necesitan prestar más atención a las diferencias que se generan al cambiar entre países (idioma, moneda, etc.), y así ampliar su público objetivo.
 
+![competitive_analysis](https://user-images.githubusercontent.com/62568912/118197248-d9d51000-b44e-11eb-8cbb-c3d503470747.png)
+
+
 Por la versatilidad que posee, vamos a analizar Inspirock.
 
 
