@@ -71,7 +71,7 @@ Nuria Vargas:
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-Tras hacer la revisión de usabilidad (usability review) de la página [Inspirock](https://www.inspirock.com/) hemos extraído las siguientes conclusiones.
+Tras hacer la revisión de usabilidad (usability review) de la página [Inspirock](https://www.inspirock.com/), hemos extraído las siguientes conclusiones.
 
 -Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-Inspirock.xls) 
 
