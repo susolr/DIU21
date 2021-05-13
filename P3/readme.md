@@ -16,7 +16,8 @@ Nota sobre la paleta de colores: Hemos elegido esta selección ya que creemos qu
 
 ## Guidelines
 
-https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+Google Material Design:
+https://www.adobe.com/es/products/xd/features/ui-kits.html#panel-3
 
 
 ## Mockup: LAYOUT HI-FI
