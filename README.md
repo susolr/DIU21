@@ -41,7 +41,7 @@ Hemos elegido Inspirock porque es la más versátil cubriendo las necesidades de
 
 Queríamos cubrir los segmentos de mercado más interesantes: un joven estudiante con recursos limitados y una mujer de mediana edad en busca de experiencias emocionantes. 
 
-[![mateo](https://user-images.githubusercontent.com/62596996/118166867-4daef280-b426-11eb-8b3b-b065ef7a1068.png)](www.google.com)
+[![mateo](https://user-images.githubusercontent.com/62596996/118166867-4daef280-b426-11eb-8b3b-b065ef7a1068.png)](https://github.com/susolr/DIU21/blob/master/P1/ficha_mateo.PNG)
 
 ![nuria](https://user-images.githubusercontent.com/62596996/118166888-556e9700-b426-11eb-9524-79cb1bd56192.png)
 
