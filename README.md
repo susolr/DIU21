@@ -102,10 +102,6 @@ Por último, hemos descrito los puntos de vista de ambas personas ficticias, y d
 ![POV](https://user-images.githubusercontent.com/62596996/118162186-c1e69780-b420-11eb-80c3-d4c3b7bbb935.png)
 
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación de viajes?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para viajar te
->>> (150-200 caracteres)
 
 Nuestra propuesta parte de toda la información que hemos recogido de los apartados anteriores, desarrollando aquellos aspectos esenciales que una aplicación de viajes debe realizar (planificar y gestionar viajes), pero ofreciendo más funcionalidades que pueden hacerla destacar del resto (una amplia sección de noticias y comunidad, además de un apartado de configuración que te permite adaptar la aplicación en función de tu idioma y el país en el que residas).
 
