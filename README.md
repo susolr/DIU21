@@ -126,13 +126,11 @@ Mediante el uso de un Task Flow, delimitamos las funcionalidades de nuestra apli
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+En cuanto al mapa de nuestra aplicación, comenzamos desde la pantalla de Home, y a través de ella podemos acceder a las páginas principales, que a su vez nos darán acceso al resto de páginas, tal y como se puede observar en el siguiente esquema:
 
 ![Sitemap](https://user-images.githubusercontent.com/62596996/118161758-41279b80-b420-11eb-8176-e7484cff7f06.png)
+
+Una vez tenemos diseñado el Sitemap, describimos la funcionalidad de cada una de las opciones que se encontrarán en nuestra aplicación:
 
 ![Labelling](https://user-images.githubusercontent.com/62596996/118161778-4684e600-b420-11eb-96e3-5b43b1a473ea.png)
 
@@ -141,25 +139,30 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
+Para terminar con el bocetaje, diseñamos a grandes rasgos algunas de las páginas principales que tendrá nuestra aplicación:
+
 ![lo_fi](https://user-images.githubusercontent.com/62596996/118166005-41766580-b425-11eb-810e-3cdf5503e050.png)
 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+Pasamos ahora a la concreción de nuestro proyecto:
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Empezamos plasmando todas las ideas y recursos principales necesarios para el desarrollo en un solo tablón, como el logotipo que tendrá nuestra apliacación en varias versiones, la paleta de colores que se usará las fuentes y los iconos que se utilizarán, y, por último, imagenes de otras aplicaciones que nos vayan a servir de inspiración más tarde.
+
+En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero con un ala de avión. Esta imagen se podría usar, por ejemplo, como cabecera de Twitter, siempre que se inserte encima de un fondo de color sólido que contraste con el avestruz y con el color de las letras empleadas.
+
 
 ![Moodboard](https://user-images.githubusercontent.com/62596996/118172180-5c98a380-b42c-11eb-9882-ddd8333002ce.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+
 
 
 ![LandingPage](https://user-images.githubusercontent.com/62596996/118161899-6b795900-b420-11eb-8448-f0faefe481ee.png)
