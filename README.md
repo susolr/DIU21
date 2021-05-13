@@ -5,7 +5,7 @@ Grupo: DIU1_TeamAlpacas.  Curso: 2020/21
 Updated: 8/3/2021
 
 Proyecto: 
->>> Appestruz
+Appestruz
 
 ![iconoappvestruz2](https://user-images.githubusercontent.com/62596996/118160636-da55b280-b41e-11eb-871f-7931703b6d63.png)
 ![iconoappvestruznegro](https://user-images.githubusercontent.com/62596996/118160639-dc1f7600-b41e-11eb-826d-fbdf4a989000.png)
@@ -14,7 +14,7 @@ Proyecto:
 
 Descripción: 
 
->>> Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo.
+Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo.
 
 
 Miembros
