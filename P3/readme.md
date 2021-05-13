@@ -26,6 +26,8 @@ Adobe Garamond: Elegida para todas las funcionalidades más rutinarias, facilita
 
 Roboto: Elegida como fuente auxiliar. Utilizada en los componentes comunes a las aplicaciones, como las barras y los botones, consiguiendo una mayor similitud con la mayoría de aplicaciones para móvil existentes en el mercado. https://fonts.google.com/specimen/Roboto
 
+Iconos: Sacados de https://fonts.google.com/icons?selected=Material+Icons
+
 
 ![Moodboard](https://user-images.githubusercontent.com/62568912/118169562-5f45c980-b429-11eb-9fd0-bcea39756cd2.png)
 
