@@ -163,7 +163,7 @@ En cuanto al logotipo, hemos diseñado con Photoshop un avestruz sin patas, pero
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una imagen llamativa te invita a comenzar a planificar tu viaje, explicándote por qué deberías de usar nuestra aplicación.
+Nada más entrar, aterrizamos en la Landing Page, que con colores vivos y una imagen llamativa, te invita a comenzar a planificar tu viaje, explicándote por qué deberías de usar nuestra aplicación.
 
 ![LandingPage](https://user-images.githubusercontent.com/62596996/118161899-6b795900-b420-11eb-8448-f0faefe481ee.png)
 
