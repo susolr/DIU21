@@ -51,11 +51,7 @@ Hemos simulado como reaccionarían nuestras personas ante una situación que con
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: (sube a github el xls/pdf) 
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración: (60-120 caracteres)
+Tras hacer la revisión de usabilidad (usability review) de la página [Inspirock](https://www.inspirock.com/) hemos extraído las siguientes conclusiones.
 
 -Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-Inspirock.xls) 
 
@@ -63,6 +59,7 @@ Hemos simulado como reaccionarían nuestras personas ante una situación que con
 
 -Comentario sobre la valoración: En general, esta página es bastante completa e intuitiva, pero aún hay varios campos en los que podría mejorar (ej: idiomas y distribución)
 
+Vamos a continuar con el análisis de esta página usando las siguientes herramientas.
 
 ## Paso 2. UX Design  
 
