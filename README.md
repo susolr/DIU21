@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU1_TeamAlpacas.  Curso: 2020/21 
-Updated: 8/3/2021
+Updated: 13/5/2021
 
 Proyecto:
 
@@ -11,7 +11,7 @@ Proyecto:
 
 Descripción: 
 
-Queremos crear una aplicación web capaz de permitir a los usuarios tanto planificar sus viajes, como gestionarlos después, disponible en varios idiomas. La página cuenta además con una opción de búsqueda para encontrar información sin necesidad de entrar a planificar ningún viaje, además de un blog que cuenta con posts de la comunidad y noticias relevantes sobre el ámbito del turismo.
+Appestruz es una aplicación disponible en varios idiomas que te permite tanto planificar viajes como gestionar aquellos que ya tengas de forma muy visual. Además, no requiere registro previo para buscar información, y te mantiene al día con las últimas noticias relevantes, y con posts de la comunidad. 
 
 
 Miembros
@@ -30,9 +30,11 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-En general todas las aplicaciones cuentan con capacidad de gestión y planificación, diversos recursos multimedia y puntos de interés. Sin embargo el uso de diferentes idiomas, monedas y otros factores que difieren entre países no se maneja igual en todas ellas.
+Para empezar, hemos analizado algunas aplicaciones parecidas a la que vamos a desarrollar, de forma que podamos tomar inspiración de ellas, y prestar más atención en aquellos aspectos de los que carecen. En concreto, hemos analizado las siguientes: Inspirock, Roadtrippers, Tripit y Lambus.
 
-Hemos elegido Inspirock porque es la más versátil cubriendo las necesidades de un público general.
+A pesar de que todas ellas cuentan con una amplia variedad de recursos y puntos de interés, creemos que necesitan prestar más atención a las diferencias que se generan al cambiar entre países (idioma, moneda, etc.), y así ampliar su público objetivo.
+
+Por la versatilidad que posee, vamos a analizar Inspirock.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
@@ -53,8 +55,7 @@ Nuria Vargas:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
-Hemos simulado como reaccionarían nuestras personas ante una situación que consideramos bastante común y usual.
+Procedemos entonces a simular como reaccionarían tanto Mateo como Nuria al enfrentarse a los siguientes escenarios:
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
