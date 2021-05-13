@@ -56,6 +56,8 @@ En referencia a los colores, hemos usado el tono más destacable (el color azul 
 
 Realizados con Adobe XD para el Google Pixel 5 (393 x 851 px).
 
+Nota: En el apartado configuración del desplegable que se muestra arriba a la izquierda, se encuentra la opción de cambiar idioma, además de los ajustes sobre las notificaciones de la aplicación, así cómo cualquier otro aspecto relacionado con la configuración de la aplicación en sí, y no del tema que abarca (la gestión de los viajes).
+
 Home: ___________________________________________________ Desplegable: _____________________________________________
 
 ![Home](https://user-images.githubusercontent.com/62568912/118157108-70d3a500-b41a-11eb-9b7e-93ff266d039e.png)
