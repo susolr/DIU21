@@ -16,7 +16,7 @@ Gracias a estas tres paletas, conseguimos el equilibrio perfecto entre la calma 
 
 
 
-Fuentes: Utilizamos tres fuentes diferentes.
+Fuentes: Utilizamos tres fuentes diferentes:
 
 Gabriola Regular: Elegida para aportar un toque divertido a la aplicación. https://fontsgeek.com/fonts/Gabriola-Regular
 
