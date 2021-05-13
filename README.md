@@ -55,7 +55,7 @@ Nuria Vargas:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Procedemos entonces a simular como reaccionarían tanto Mateo como Nuria al enfrentarse a los siguientes escenarios:
+Procedemos entonces a simular como reaccionarían tanto Mateo como Nuria al enfrentarse a escenarios predefinidos:
 
 Mateo Kroos: 
 
@@ -72,9 +72,9 @@ Tras hacer la revisión de usabilidad (usability review) de la página [Inspiroc
 
 -Enlace al documento: [usability_review](https://github.com/susolr/DIU21/blob/master/P1/Usability-review-Inspirock.xls) 
 
--Valoración final (numérica): 86/100
+-Por los detalles descritos en ese documento, le hemos dado una puntuación a la página de 86/100.
 
--Comentario sobre la valoración: En general, esta página es bastante completa e intuitiva, pero aún hay varios campos en los que podría mejorar (ej: idiomas y distribución)
+-En general, esta página es bastante completa e intuitiva, pero aún así hay varios campos en los que podría mejorar (ej: idiomas y distribución de componentes en la interfaz).
 
 Vamos a continuar con el análisis de esta página usando las siguientes herramientas.
 
