@@ -9,6 +9,7 @@ Proyecto:
 Appestruz
 
 ![Appestruznegro](https://user-images.githubusercontent.com/62596996/118160645-de81d000-b41e-11eb-846e-47be72b920fe.png)
+![iconoappvestruznegro](https://user-images.githubusercontent.com/62596996/118161293-b0e95680-b41f-11eb-81ac-7b1657aedaf7.png)
 
 
 Descripción: 
