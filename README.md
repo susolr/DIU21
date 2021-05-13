@@ -57,6 +57,14 @@ Nuria Vargas:
 
 Procedemos entonces a simular como reaccionarían tanto Mateo como Nuria al enfrentarse a los siguientes escenarios:
 
+Mateo Kroos: 
+
+[![mateo](https://user-images.githubusercontent.com/62596996/118166867-4daef280-b426-11eb-8b3b-b065ef7a1068.png)](https://github.com/susolr/DIU21/blob/master/P1/journey_mateo.PNG)
+
+Nuria Vargas: 
+
+[![nuria](https://user-images.githubusercontent.com/62596996/118166888-556e9700-b426-11eb-9524-79cb1bd56192.png)](https://github.com/susolr/DIU21/blob/master/P1/journey_nuria.PNG)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
