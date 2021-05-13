@@ -152,6 +152,7 @@ Término | Significado
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
+![mockup](https://user-images.githubusercontent.com/62596996/118165418-8f3e9e00-b424-11eb-8b0b-51796eab8184.png)
 
 
 
