@@ -31,11 +31,9 @@ En referencia a los colores, hemos usado el tono más destacable (el color azul 
 
 ## Mockup: LAYOUT HI-FI
 
-Home
+Home:                                      Desplegable:
 
 ![Home](https://user-images.githubusercontent.com/62568912/118157108-70d3a500-b41a-11eb-9b7e-93ff266d039e.png)
-
-Desplegable
 
 ![Desplegable](https://user-images.githubusercontent.com/62568912/118157129-77fab300-b41a-11eb-96bf-7d51740e9ad3.png)
 
