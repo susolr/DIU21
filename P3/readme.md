@@ -12,7 +12,7 @@ Secundaria: En tonos amarillos. Transmite alegría y consigue captar la atenció
 
 Auxiliar: En tonos grises. Utilizada solo en el logotipo. Diseñada para uso futuro en la interfaz, en caso de que se necesite una tercera gama de colores. Transmite sobriedad.
 
-Gracias a estas tres paletas, conseguimos el equilibrio perfecto entre la calma que se necesita para planificar un viaje y la alegría que dicho transmite, otorgándole toques de sobriedad siempre que hagan falta.
+Gracias a estas tres paletas, conseguimos el equilibrio perfecto entre la calma que se necesita para planificar un viaje, y la alegría que dicho transmite, otorgándole toques de sobriedad siempre que sea necesario.
 
 
 
