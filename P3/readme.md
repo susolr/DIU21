@@ -10,7 +10,7 @@ Paletas: Contamos con tres paletas:
 
 Principal: En tonos azules. Transmite calma y tranquilidad.
 
-Secundaria: En tonos amarillos. Transmite alegría y consigue captar la atención del espectador.
+Secundaria: En tonos amarillos. Transmite alegría y consigue captar la atención del usuario.
 
 Auxiliar: En tonos grises. Utilizada solo en el logotipo. Diseñada para uso futuro en la interfaz, en caso de que se necesite una tercera gama de colores. Transmite sobriedad.
 
