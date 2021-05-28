@@ -206,6 +206,9 @@ Llegamos por fin al último paso del diseño de nuestra aplicación, el layout M
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+TourGraná:
+
+Esta aplicación nos ofrece información sobre las ofertas turísticas que se encuentran en la ciudad de Granada, ofreciendo la posibilidad de buscar aquello que más se ajuste a los deseos del usuario, para posteriormente darle la opción de reservarlo desde la propia página.
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
@@ -223,6 +226,8 @@ Llegamos por fin al último paso del diseño de nuestra aplicación, el layout M
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
+![Usuarios](https://user-images.githubusercontent.com/62568912/120051424-e34ea280-c020-11eb-85e5-72e2e052bdf7.png)
+
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
@@ -232,6 +237,14 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+SUSAppestruz:
+
+![SUSAppestruz](https://user-images.githubusercontent.com/62568912/120051441-f3ff1880-c020-11eb-9e84-da456b9fa8a5.png)
+
+SUSTourGraná:
+
+![SUSTourGrana](https://user-images.githubusercontent.com/62568912/120051449-fb262680-c020-11eb-9a49-ff7a722caf24.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
