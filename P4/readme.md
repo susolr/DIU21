@@ -70,5 +70,5 @@ Comparando esta página B (TourGraná) con nuestro prototipo A (Appestruz), vemo
 Aun así, si eliminamos de las muestras utilizadas para el cuestionario SUS a aquellas dos personas que en ambos casos evaluaron más bajo (individuos 1 y 5), esta página se queda ligeramente inferior en puntuación al prototipo A (87,5 frente a 88,5). 
 Por esto concluimos que TourGraná cumple con las necesidades de un público más general, pues las calificaciones tienen una menor varianza entre sí que en el prototipo A, abarcando así a un público objetivo más amplio del que ha conseguido Appestruz.
 
-
+El Usability Report, tanto del caso de estudio (TourGraná), como de nuestro caso (Appestruz), se encuentran subidos en los archivos de esta práctica.
 
