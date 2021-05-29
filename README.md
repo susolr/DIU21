@@ -216,15 +216,7 @@ Esta aplicación nos ofrece información sobre las ofertas turísticas que se en
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Hemos usado un número de personas (tanto reales como ficticias) para realizar todo lo referido a la práctica.
 
 ![Usuarios](https://user-images.githubusercontent.com/62568912/120051424-e34ea280-c020-11eb-85e5-72e2e052bdf7.png)
 
@@ -246,6 +238,7 @@ SUSTourGraná:
 
 ![SUSTourGrana](https://user-images.githubusercontent.com/62568912/120051449-fb262680-c020-11eb-9a49-ff7a722caf24.png)
 
+En general ambas propuestas cuentan con un nivel más que aceptable, además de haber recibido puntuaciones bastante similares. Si que difieren en los sectores más críticos, aunque obviando estas puntuaciones más bajas la calificación que obtienen es bastante similar. 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -256,7 +249,7 @@ SUSTourGraná:
 
 >>> Valoración personal 
 
-
+Durante el análisis de la propuesta de nuestros compañeros hemos visto que han conseguido elaborar una app muy intuitiva y fácil de usar, a la par que agradable. Sin embargo, si tuvieramos que poner una objeción, serían los serios problemas de contraste entre las letras y el fondo de la app, lo que la hace un poco difícil de ver en algunas situaciones. Obviando este último punto, el trabajo realizado por los compañeros es bastante bueno, ya que han conseguido desarrollar un producto muy bueno. 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
