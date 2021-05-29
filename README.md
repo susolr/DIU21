@@ -244,7 +244,7 @@ En general ambas propuestas cuentan con un nivel más que aceptable, además de 
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
-[Usability-report](https://github.com/susolr/DIU21/blob/master/P4/DIU_report-template-usability-testOK-B-TourGrana.pdf)
+[Usability-report](https://github.com/susolr/DIU21/blob/master/P4/P4_UsabReport_TourGrana_doneby_DIU1_TeamAlpacas.pdf)
 
 
 >>> Valoración personal 
