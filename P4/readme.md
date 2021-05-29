@@ -72,3 +72,7 @@ Por esto concluimos que TourGraná cumple con las necesidades de un público má
 
 El Usability Report, tanto del caso de estudio (TourGraná), como de nuestro caso (Appestruz), se encuentran subidos en los archivos de esta práctica.
 
+[Appestruz](https://github.com/susolr/DIU21/blob/master/P4/DIU_report-template-usability-testOK-A-Appestruz.pdf)
+
+[TourGrana](https://github.com/susolr/DIU21/blob/master/P4/DIU_report-template-usability-testOK-B-TourGrana.pdf)
+
