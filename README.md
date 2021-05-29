@@ -206,7 +206,7 @@ Llegamos por fin al último paso del diseño de nuestra aplicación, el layout M
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-TourGraná:
+[TourGraná](https://github.com/raulrguez09/DIU21):
 
 Esta aplicación nos ofrece información sobre las ofertas turísticas que se encuentran en la ciudad de Granada, ofreciendo la posibilidad de buscar aquello que más se ajuste a los deseos del usuario, para posteriormente darle la opción de reservarlo desde la propia página.
 
@@ -251,10 +251,12 @@ SUSTourGraná:
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+[Usability-report](https://github.com/susolr/DIU21/blob/master/P4/DIU_report-template-usability-testOK-B-TourGrana.pdf)
 
 
 >>> Valoración personal 
+
+
 
 
 ## Paso 5. Evaluación de Accesibilidad  
